@@ -1,6 +1,7 @@
 {
   "purchaseOrder": [
     {
+      "id": 1,
       "PR Requester": "ABCDE",
       "PR Requester Name": "Ryan Whitmore",
       "User E-mail": "ryan.whitmore@bayer.com",
@@ -28,6 +29,7 @@
       "IR Value USD": "0.00"
     },
     {
+      "id": 2,
       "PR Requester": "ABCDE",
       "PR Requester Name": "Ryan Whitmore",
       "User E-mail": "ryan.whitmore@bayer.com",
@@ -55,6 +57,7 @@
       "IR Value USD": "0.00"
     },
     {
+      "id": 3,
       "PR Requester": "ZYXWV",
       "PR Requester Name": "David Yerow",
       "User E-mail": "david.yerow@bayer.com",
